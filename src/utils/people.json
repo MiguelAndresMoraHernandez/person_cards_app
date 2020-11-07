@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Alex",
+        "color": "ligthblue"
+    },
+    {
+        "name": "Julian",
+        "color": "ligthred"
+    },
+    {
+        "name":"Carmela",
+        "color": "ligthorange"
+    },
+    {
+        "name":"Francisco",
+        "color": "ligthgrey"
+    },
+    {
+        "name": "Daniel",
+        "color":"white"
+    }
+]
